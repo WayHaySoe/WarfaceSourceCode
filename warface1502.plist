@@ -1,0 +1,7 @@
+{
+    Filter =     {
+        Bundles =         (
+            "com.my.warface.online.fps.pvp.action.shooter"
+        );
+    };
+}
